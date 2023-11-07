@@ -1,0 +1,39 @@
+*{
+    margin: 10; color: brown;
+}
+
+h1{
+    color: chartreuse;
+}
+
+#h3{
+    color: chocolate;
+}
+
+.p{
+    color: blueviolet;
+}
+
+.p.first{
+    color: blue;
+}
+
+.p.second{
+    color: cyan;
+}
+
+#third.p.third{
+    color: rgb(168, 87, 103);
+}
+
+div>p.p4{
+    color: gold;
+}
+
+em.h3.first{
+    color: teal;
+}
+
+div>p>em>strong#second_p.second_p{
+    color: black;
+}
