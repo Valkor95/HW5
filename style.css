@@ -37,3 +37,7 @@ em.h3.first{
 div>p>em>strong#second_p.second_p{
     color: black;
 }
+
+div>h3#h3:hover, em.h3.first:hover{
+    color: green;
+}
